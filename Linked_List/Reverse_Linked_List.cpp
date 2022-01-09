@@ -1,4 +1,4 @@
-#include<bits\stdc++.h>
+#include<bits\stdc++.h> // use reverse function reversing the linked list ;)
 using namespace std;
 class node
 {
