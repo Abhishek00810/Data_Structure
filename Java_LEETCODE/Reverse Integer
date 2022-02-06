@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Scanner;
 public class nt
-{ // two sum
+{ 
 	public static int reverse(int num)
 	{
 		long result = 0;
